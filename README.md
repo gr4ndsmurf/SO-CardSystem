@@ -1,2 +1,2 @@
 # SO-CardGame
-simpe card game with scriptableobjects.
+simple card game with scriptableobjects.
