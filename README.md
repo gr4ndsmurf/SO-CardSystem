@@ -37,3 +37,4 @@ The `CardInfo.cs` is a ScriptableObject that stores the data for each card. It c
 ### Credit
 - Assets = [Cards](https://free-game-assets.itch.io/free-npc-quest-tcg-cards-pixel-art)
          [Icons](https://ravenmore.itch.io/fantasy-icon-pack)
+- Developed by [gr4ndsmurf](https://github.com/gr4ndsmurf)
